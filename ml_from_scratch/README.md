@@ -7,6 +7,7 @@ My attempt at implementing core ML algorithms from scratch to better understand 
 * KNN
 * Naive Bayes
 * Decision Trees
+* Perceptron
 * Simple Linear SVM
 
 ### Unsupervised ML ###
